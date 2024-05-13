@@ -1,0 +1,76 @@
+{
+  "welcome": "Привіт, ДрімКрафтер!",
+
+  "language": "Змінити мову",
+
+  "categories": "Категорії",
+  "settings": "Налаштування",
+
+  "sort_categories": {
+    "most_popular": "Найпопулярніші",
+    "least_popular": "Не найпопулярніші",
+    "most_rated": "Найрейтинговіші",
+    "least_rated": "Не найрейтинговіші",
+    "alphabet": "Алфавіт"
+  },
+
+  "sort_rev_his": {
+    "newest": "Найновіші",
+    "oldest": "Найстаріші"
+  },
+
+  "search": "Пошук",
+  "choose": "Обрати",
+  "decline": "Відмовитися",
+  "post": "Опублікувати",
+  "rate": "Оцінити",
+  "sort": "Сортувати",
+  "save": "Зберегти",
+  "reviews": "Відгуки",
+  "currently_used": "Наразі використовують",
+
+  "plans": "Плани",
+  "history": "Історія",
+  "profile": "Профіль",
+  "your_current_plan": "Ваш поточний план",
+  "subscription_till": "Підписка до",
+  "cancel_subscription": "Скасувати підписку",
+  "subscribe": "Підписатися",
+  "no_plan": "Немає плану",
+  "month": "на місяць",
+  "unauthorized": "Неавторизовано",
+  "history_subscribed": "Ви підписалися на план {}!",
+  "history_category": "Ви обрали категорію {}!",
+
+  "first_name": "Імʼя",
+  "last_name": "Прізвище",
+  "nickname": "Нікнейм",
+  "email": "Email",
+  "password": "Пароль",
+  "confirm_password": "Підтвердіть пароль",
+  "avatar": "Посилання на аватарку",
+
+  "hint": {
+    "email_or_nickname": "Email або нікнейм",
+    "enter_password": "Введіть свій пароль",
+    "enter_first_name": "Введіть своє ім'я",
+    "enter_last_name": "Введіть своє прізвище",
+    "enter_nickname": "Введіть свій нікнейм",
+    "enter_email": "Введіть свій Email",
+    "enter_link": "Введіть посилання на Ваш аватар",
+    "write_review": "Напишіть відгук"
+  },
+
+  "log_in": "Увійти",
+  "sign_up": "Зареєструватися",
+  "logout": "Вийти",
+
+  "sure_logout": "Ви впевнені, що хочете вийти",
+  "sure_cancel_sub": "Ви впевнені, що хочете скасувати підписку?",
+  "yes": "Так",
+  "no": "Ні",
+
+  "dont_have_account": "Не маєте акаунта?",
+  "have_account": "Маєте акаунт?",
+  "something_went_wrong": "Щось пішло не так."
+}

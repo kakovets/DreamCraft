@@ -1,0 +1,76 @@
+{
+  "welcome": "Welcome, DreamCrafter!",
+
+  "language": "Change language",
+
+  "categories": "Categories",
+  "settings": "Settings",
+
+  "sort_categories": {
+    "most_popular": "Most popular",
+    "least_popular": "Least popular",
+    "most_rated": "Most rated",
+    "least_rated": "Least rated",
+    "alphabet": "Alphabet"
+  },
+
+  "sort_rev_his": {
+    "newest": "Newest first",
+    "oldest": "Oldest first"
+  },
+
+  "search": "Search",
+  "choose": "Choose",
+  "decline": "Decline",
+  "post": "Post",
+  "rate": "Rate",
+  "sort": "Sort",
+  "save": "Save",
+  "reviews": "Reviews",
+  "currently_used": "Currently used by",
+
+  "plans": "Plans",
+  "history": "History",
+  "profile": "Profile",
+  "your_current_plan": "Your current plan",
+  "subscription_till": "Subscription till",
+  "cancel_subscription": "Cancel subscription",
+  "subscribe": "Subscribe",
+  "no_plan": "No plan",
+  "month": "Month",
+  "unauthorized": "Unauthorized",
+  "history_subscribed": "You subscribed to {} plan!",
+  "history_category": "You chose a {} category!",
+
+  "first_name": "First name",
+  "last_name": "Last name",
+  "nickname": "Nickname",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm password",
+  "avatar": "Link for avatar",
+
+  "hint": {
+    "email_or_nickname": "Email or nickname",
+    "enter_password": "Enter your password",
+    "enter_first_name": "Enter your first name",
+    "enter_last_name": "Enter your last name",
+    "enter_nickname": "Enter your nickname",
+    "enter_email": "Enter your email",
+    "enter_link": "Enter link for your avatar",
+    "write_review": "Write a review"
+  },
+
+  "log_in": "Log in",
+  "sign_up": "Sign up",
+  "logout": "Logout",
+
+  "sure_logout": "Are you sure you want to logout?",
+  "sure_cancel_sub": "Are you sure you want to cancel your subscription?",
+  "yes": "Yes",
+  "no": "No",
+
+  "dont_have_account": "Don't have an account?",
+  "have_account": "Have an account?",
+  "something_went_wrong": "Something went wrong"
+}
